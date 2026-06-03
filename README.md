@@ -11,9 +11,9 @@ The `logs` package to send logs to console with extra info and catch query sql .
 
 ## Installation
 
-Require the `litermi/logs` package in your `composer.json` and update your dependencies:
+Require the `litermi-packages/logs` package in your `composer.json` and update your dependencies:
 ```sh
-composer require litermi/logs
+composer require litermi-packages/logs
 ```
 
 

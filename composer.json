@@ -1,5 +1,5 @@
 {
-    "name": "litermi/logs",
+    "name": "litermi-packages/logs",
     "description": "package to log routines and sql query",
     "type": "library",
     "license": "MIT",
